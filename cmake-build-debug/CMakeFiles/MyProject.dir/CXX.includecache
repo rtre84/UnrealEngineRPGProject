@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProject.init.gen.cpp
+GeneratedCppIncludes.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/GeneratedCppIncludes.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectCharacter.gen.cpp
+GeneratedCppIncludes.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/GeneratedCppIncludes.h
+MyProjectCharacter.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectCharacter.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectGameMode.gen.cpp
+GeneratedCppIncludes.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/GeneratedCppIncludes.h
+MyProjectGameMode.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectGameMode.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectPlayerController.gen.cpp
+GeneratedCppIncludes.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/GeneratedCppIncludes.h
+MyProjectPlayerController.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Intermediate/Build/Mac/UE4Editor/Inc/MyProject/MyProjectPlayerController.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProject.cpp
+MyProject.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProject.h
+Modules/ModuleManager.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Modules/ModuleManager.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProject.h
+CoreMinimal.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/CoreMinimal.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.cpp
+MyProjectCharacter.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.h
+UObject/ConstructorHelpers.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/UObject/ConstructorHelpers.h
+Camera/CameraComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Camera/CameraComponent.h
+Components/DecalComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Components/DecalComponent.h
+Components/CapsuleComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Components/CapsuleComponent.h
+GameFramework/CharacterMovementComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/CharacterMovementComponent.h
+GameFramework/PlayerController.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/PlayerController.h
+GameFramework/SpringArmComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/SpringArmComponent.h
+HeadMountedDisplayFunctionLibrary.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/HeadMountedDisplayFunctionLibrary.h
+Materials/Material.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Materials/Material.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.h
+CoreMinimal.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/CoreMinimal.h
+GameFramework/Character.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/Character.h
+MyProjectCharacter.generated.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.generated.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectGameMode.cpp
+MyProjectGameMode.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectGameMode.h
+MyProjectPlayerController.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectPlayerController.h
+MyProjectCharacter.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.h
+UObject/ConstructorHelpers.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/UObject/ConstructorHelpers.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectGameMode.h
+CoreMinimal.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/CoreMinimal.h
+GameFramework/GameModeBase.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/GameModeBase.h
+MyProjectGameMode.generated.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectGameMode.generated.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectPlayerController.cpp
+MyProjectPlayerController.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectPlayerController.h
+AI/Navigation/NavigationSystem.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/AI/Navigation/NavigationSystem.h
+Runtime/Engine/Classes/Components/DecalComponent.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/Runtime/Engine/Classes/Components/DecalComponent.h
+HeadMountedDisplayFunctionLibrary.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/HeadMountedDisplayFunctionLibrary.h
+MyProjectCharacter.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectCharacter.h
+
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectPlayerController.h
+CoreMinimal.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/CoreMinimal.h
+GameFramework/PlayerController.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/GameFramework/PlayerController.h
+MyProjectPlayerController.generated.h
+/Users/anupvasudevan/Documents/Unreal Projects/MyProject/Source/MyProject/MyProjectPlayerController.generated.h
+
